@@ -1,0 +1,20 @@
+list two_phase_2times:
+0.001 0.002 0.006 0.061 0.527 5.434 
+list two_phase_2times:
+0.001 0.002 0.007 0.055 0.498 5.191 
+list two_phase_2times:
+0.000 0.002 0.007 0.059 0.537 5.434 
+list two_phase_2times:
+0.002 0.002 0.003 0.088 0.895 9.549 
+list two_phase_2times:
+0.001 0.001 0.002 0.054 0.517 5.022 
+list two_phase_2times:
+0.002 0.003 0.015 0.096 0.919 9.817 
+list two_phase_2times:
+0.003 0.004 0.012 0.100 0.902 9.815 
+list two_phase_2times:
+0.000 0.001 0.010 0.095 0.917 9.294 
+list two_phase_2times:
+0.002 0.002 0.012 0.092 0.861 9.070 
+list two_phase_2times:
+0.003 0.002 0.012 0.116 0.933 9.527 
