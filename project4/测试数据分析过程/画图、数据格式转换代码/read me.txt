@@ -1,0 +1,19 @@
+draw.py   draw_fair.py   draw_scale.py 是画图代码
+
+change_x.py   change_y.py   change_fair_x.py 是数据格式转换的代码
+
+（数据转换是为了方便能够建表格）
+
+每次画图或转换数据格式时，需要根据不同的原始数据对代码进行参数上的调整
+
+draw.py主要针对1-20个线程时需要的画图
+
+draw_fair.py主要针对测试公平性时需要的画图
+
+draw_scale.py主要针对缩放线程项目数时需要的画图
+
+change_x.py是将原始数据转换成横向的表格数据
+
+change_y.py是将原始数据转换成纵向的表格数据
+
+change_fair_x.py是将fairmutex的测试数据转换成横向的表格
