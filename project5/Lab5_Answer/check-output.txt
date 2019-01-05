@@ -1,0 +1,168 @@
+superblock:
+  size = 512
+  inode_offset = 0
+  data_offset = 4
+  swap_offset = 10243
+  free_inode = 14
+  free_iblock = 2136
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 0 1 2 3 4 5 6 7 8 9 
+  iblocks[N_IBLOCKS] = 138 185 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 186 187 188 189 190 191 192 193 194 195 
+  iblocks[N_IBLOCKS] = 324 453 544 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 545 546 547 548 549 550 551 552 553 554 
+  iblocks[N_IBLOCKS] = 628 0 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 629 0 0 0 0 0 0 0 0 0 
+  iblocks[N_IBLOCKS] = 0 0 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 630 631 632 633 634 635 636 637 638 639 
+  iblocks[N_IBLOCKS] = 652 0 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 653 654 655 656 657 658 659 660 661 662 
+  iblocks[N_IBLOCKS] = 687 0 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = -1
+  nlink = 0
+  dblocks[N_DBLOCKS] = 0 0 0 0 0 0 0 0 0 0 
+  iblocks[N_IBLOCKS] = 0 0 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 688 689 690 691 692 0 0 0 0 0 
+  iblocks[N_IBLOCKS] = 0 0 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 693 694 695 696 697 698 699 700 701 702 
+  iblocks[N_IBLOCKS] = 723 0 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 6
+  nlink = 0
+  dblocks[N_DBLOCKS] = 0 0 0 0 0 0 0 0 0 0 
+  iblocks[N_IBLOCKS] = 0 0 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 724 725 726 727 728 729 730 731 732 733 
+  iblocks[N_IBLOCKS] = 767 0 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 768 769 770 771 772 773 774 775 776 777 
+  iblocks[N_IBLOCKS] = 808 0 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 809 0 0 0 0 0 0 0 0 0 
+  iblocks[N_IBLOCKS] = 0 0 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 810 811 812 813 814 815 816 817 818 819 
+  iblocks[N_IBLOCKS] = 948 1077 1206 1263 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 9
+  nlink = 0
+  dblocks[N_DBLOCKS] = 0 0 0 0 0 0 0 0 0 0 
+  iblocks[N_IBLOCKS] = 0 0 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 1264 1265 1266 0 0 0 0 0 0 0 
+  iblocks[N_IBLOCKS] = 0 0 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 1267 1268 1269 1270 1271 1272 1273 1274 0 0 
+  iblocks[N_IBLOCKS] = 0 0 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 1275 1276 1277 1278 0 0 0 0 0 0 
+  iblocks[N_IBLOCKS] = 0 0 0 0 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 1279 1280 1281 1282 1283 1284 1285 1286 1287 1288 
+  iblocks[N_IBLOCKS] = 1417 1546 1675 1772 
+  i2block = 0
+  i3block = 0
+
+inode:
+  next_inode = 0
+  nlink = 1
+  dblocks[N_DBLOCKS] = 1773 1774 1775 1776 1777 1778 1779 1780 1781 1782 
+  iblocks[N_IBLOCKS] = 1911 2040 2135 0 
+  i2block = 0
+  i3block = 0
+
